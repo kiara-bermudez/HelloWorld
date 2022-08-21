@@ -2,5 +2,4 @@
     <string name="app_name">HelloWorld</string>
     <string name="kiara_intro">Hello World! My name is Kiara and I love programming! I have had experience with Python, C++, Haskell, Java, PERN stack and more! I love cybersecurity, web development and am interested in app development!</string>
     <string name="button_text">Say Hello!</string>
-    <string name="toast_text">"Hello to you too!"</string>
 </resources>
